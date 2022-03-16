@@ -16,7 +16,16 @@ https://drive.google.com/file/d/1NIMk5-l4eyQqVv6lwRQHRODKTjRqhuCI/view
 
 ## POST, PUT, DELETE Routes
 
-This video displays additional functionality in adding users, thoughts, reactions, as well as deleting this info as well.
+The below videos display additional functionality in adding users, thoughts, reactions, as well as deleting this info as well.
+
+* Create User
+
+* Create Thought
+
+* Create Reaction
+
+* Delete Functionality
+* 
 
 ## Contribution
 Made by Kevin Jackson
