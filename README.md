@@ -10,7 +10,9 @@ As a social media startup I want an API for my social network that uses a NoSQL 
 
 ## GET Routes (Find All - Find By Id)
 
-This video displays functionality in retrieving all users in database.
+This video displays functionality in retrieving all users in database, as well as returning a single user.
+
+https://drive.google.com/file/d/1NIMk5-l4eyQqVv6lwRQHRODKTjRqhuCI/view
 
 ## POST, PUT, DELETE Routes
 
