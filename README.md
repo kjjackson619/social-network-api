@@ -19,13 +19,18 @@ https://drive.google.com/file/d/1NIMk5-l4eyQqVv6lwRQHRODKTjRqhuCI/view
 The below videos display additional functionality in adding users, thoughts, reactions, as well as deleting this info as well.
 
 * Create User
+https://drive.google.com/file/d/1GTJXS-jE-R8TSodTaU_Qf_IzF3z1i0qu/view
+
 
 * Create Thought
 
+
 * Create Reaction
 
+
 * Delete Functionality
-* 
+
+
 
 ## Contribution
 Made by Kevin Jackson
