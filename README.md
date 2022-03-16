@@ -30,8 +30,10 @@ https://drive.google.com/file/d/129w82StX3rlggsHSAIs06ArC8u3PVgm5/view
 https://drive.google.com/file/d/1uGUBqot4tsyMDcfCsmCVsggp6rsc2Xk_/view
 
 
-* Delete Functionality
+* Delete Functionality:
+https://drive.google.com/file/d/1gbLmG5xkl9-BGYRFtSmN7Fo12XkvTl_M/view
 
+https://drive.google.com/file/d/1KkbywsIyeF6rns7Q5Rqs766gz6TzpZ2R/view
 
 
 ## Contribution
