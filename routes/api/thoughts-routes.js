@@ -9,7 +9,7 @@ const {
 
 router.route('/:userId').post(addThought);
 
-router.route('/:userid/:thoughtId')
+router.route('/:userId/:thoughtId')
     .put(addReaction)
     .delete(removeThought)
 
